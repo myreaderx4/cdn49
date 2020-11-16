@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>10 Best Examples of Shopify Facebook Ads &amp; What You Can Learn From Them</title>
+  <meta name="description"
+    content="Now that you have your Shopify store up and running, it's time for you to start making sales. If you're wondering why your Shopify sales aren't as frequent" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="XuU58_s13KyH8v48P6h8dQ4LGuo0-RWzelAcP_SuEg4" />
+  <meta name="ahrefs-site-verification" content="c4c3a00c58f37f58fd429039c3594a2a360067a3bff6c9970c006b2326f29b27">
+  <link rel="preload" href="https://cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
+  <meta name="shareaholic:site_id" content="3d24f9089c59cc049e00ab0943e0d648" />
+  <script type="text/javascript">
+    var _vwo_code = (function () {
+      var account_id = 342484,
+        settings_tolerance = 2000,
+        library_tolerance = 2500,
+        use_existing_jquery = false,
+        /* DO NOT EDIT BELOW THIS LINE */
+        f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); var a = d.createElement('style'), b = 'body{opacity:1 !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); return settings_timer; } };
+    }()); _vwo_settings_timer = _vwo_code.init();
+  </script>
+  <script data-cfasync="false" async src="https://cdn.shareaholic.net/assets/pub/shareaholic.js"
+    onload="!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://static1.twitcount.com/js/twitcount.js';js.onload='reloadShares()';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitcount_plugins');"></script>
+  <script src="//cdn.wishpond.net/connect.js?merchantId=267221&writeKey=c78f782870d0" async></script>
+  <link rel="shortcut icon" href="/assets/favicon/favicon.png?v=b966451b25" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.min.css?v=b966451b25" />
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+  <link rel="canonical" href="https://blog.wishpond.com/post/115675438117/shopify-facebook-ads" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="Wishpond" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="10 Best Examples of Shopify Facebook Ads &amp; What You Can Learn From Them" />
+    <meta property="og:description" content="Now that you have your Shopify store up and running, it&#x27;s time for you to start making sales. If you&#x27;re wondering why your Shopify sales aren&#x27;t as frequent as you&#x27;d expect, it&#x27;s more common than you think.  On average, only 2.86% of eCommerce website visits convert into a purchase." />
+    <meta property="og:url" content="https://blog.wishpond.com/post/115675438117/shopify-facebook-ads" />
+    <meta property="og:image" content="https://www.wishpond.com/wp-content/uploads/sites/3/2020/11/WISHPOND-OCTOBER-LAST-WEEK-NEWSLETTER-3.jpg" />
+    <meta property="article:published_time" content="2020-11-04T12:00:00.000Z" />
+    <meta property="article:modified_time" content="2020-11-04T12:00:00.000Z" />
+    <meta property="article:tag" content="Shopify" />
+    <meta property="article:tag" content="Shopify Marketing" />
+    <meta property="article:tag" content="shopify example" />
+    <meta property="article:tag" content="Facebook Ads" />
+    <meta property="article:tag" content="facebook" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/wishpond" />
+    <meta property="article:author" content="https://www.facebook.com/vitalvines.co" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="10 Best Examples of Shopify Facebook Ads &amp; What You Can Learn From Them" />
+    <meta name="twitter:description" content="Now that you have your Shopify store up and running, it&#x27;s time for you to start making sales. If you&#x27;re wondering why your Shopify sales aren&#x27;t as frequent as you&#x27;d expect, it&#x27;s more common than you think.  On average, only 2.86% of eCommerce website visits convert into a purchase." />
+    <meta name="twitter:url" content="https://blog.wishpond.com/post/115675438117/shopify-facebook-ads" />
+    <meta name="twitter:image" content="https://www.wishpond.com/wp-content/uploads/sites/3/2020/11/WISHPOND-OCTOBER-LAST-WEEK-NEWSLETTER-3.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Victoria Taylor" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Shopify, Shopify Marketing, shopify example, Facebook Ads, facebook" />
+    <meta name="twitter:site" content="@wishpond" />
+    <meta name="twitter:creator" content="@vicknwsbest" />
+    <meta property="og:image:width" content="850" />
+    <meta property="og:image:height" content="310" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Wishpond",
+        "logo": "https://d3ds0r8ijvk7u6.cloudfront.net/wp-content/uploads/sites/3/2015/10/07111251/text-white.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Victoria Taylor",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.wishpond.com/wp-content/uploads/sites/3/2020/06/vtm_tt_coverposes_flexing_1.26.18-3.jpg",
+            "width": 1875,
+            "height": 1545
+        },
+        "url": "https://blog.wishpond.com/author/victoria-taylor/",
+        "sameAs": [
+            "https://www.victoriataylormarketing.com/",
+            "https://www.facebook.com/vitalvines.co",
+            "https://twitter.com/vicknwsbest"
+        ],
+        "description": "Victoria is a Marketing Generalist at Wishpond specializing in all things digital marketing and social media marketing. In love with blogging and Taco Tuesdays. Follow her on Twitter @vicknwsbest."
+    },
+    "headline": "10 Best Examples of Shopify Facebook Ads &amp; What You Can Learn From Them",
+    "url": "https://blog.wishpond.com/post/115675438117/shopify-facebook-ads",
+    "datePublished": "2020-11-04T12:00:00.000Z",
+    "dateModified": "2020-11-04T12:00:00.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.wishpond.com/wp-content/uploads/sites/3/2020/11/WISHPOND-OCTOBER-LAST-WEEK-NEWSLETTER-3.jpg",
+        "width": 850,
+        "height": 310
+    },
+    "keywords": "Shopify, Shopify Marketing, shopify example, Facebook Ads, facebook",
+    "description": "Now that you have your Shopify store up and running, it&#x27;s time for you to start making sales. If you&#x27;re wondering why your Shopify sales aren&#x27;t as frequent as you&#x27;d expect, it&#x27;s more common than you think.  On average, only 2.86% of eCommerce website visits convert into a purchase.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blog.wishpond.com"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.11" />
+    <link rel="alternate" type="application/rss+xml" title="Wishpond" href="https://blog.wishpond.com/rss/" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-17899204-1"></script>
+  <script type="text/javascript" src="/assets/js/analytics/header.js?v=b966451b25"></script>
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body class="post-template tag-shopify tag-shopify-marketing tag-shopify-example tag-facebook-ads tag-facebook">
+  <nav class="site-header navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-primary"
+        aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://www.wishpond.com/"><img
+          src="https://d30itml3t0pwpf.cloudfront.net/wp-content/themes/wishpond/images/wishpond-logo.png" /></a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div id="menu-primary" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+            aria-expanded="false">Products <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="https://www.wishpond.com/landing-pages/">Landing Pages</a></li>
+            <li><a href="https://www.wishpond.com/social-promotions/">Contests &amp; Promotions</a></li>
+            <li><a href="https://www.wishpond.com/website-popups/">Website Popups</a></li>
+            <li><a href="https://www.wishpond.com/forms/">Online Forms</a></li>
+            <li><a href="https://www.wishpond.com/email-marketing/">Email Marketing</a></li>
+            <li><a href="https://www.wishpond.com/lead-management/">Leads Database</a></li>
+          </ul>
+        </li>
+        <li><a href="https://www.wishpond.com/pricing/">Pricing</a></li>
+        <li><a href="https://www.wishpond.com/ebooks/">Ebooks</a></li>
+        <li><a href="https://www.wishpond.com/login/?type=campaigns">Login</a></li>
+        <li class="signup-nav"><a
+            href="https://www.wishpond.com/vip-demo/?blog_navbar&blog_visitor=true&utm_source=blog%20nav">Get
+            Started</a>
+        </li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>
+  <div id="overlay" class="overlay-container">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="popup-container">
+            <div class="icon"><img
+                src="https://d3ds0r8ijvk7u6.cloudfront.net/wp-content/uploads/sites/3/2017/03/10152529/lead-gen-campaigns.png">
+            </div>
+            <p class="overlay-title">Create great lead-gen campaigns</p>
+            <p class="overlay-desc">Wishpond makes it easy to create landing pages and contests, manage your leads and
+              contacts, and automate email campaigns. All in one place.</p>
+            <div class="row button-area">
+              <div class="col-md-12">
+                <p class="btn-container"><a style=" padding: 20px 15px;" id="pricing-link"
+                    href="https://www.wishpond.com/pricing/?utm_source=blog%20overlay&blog_overlay=true">Get Started</a>
+                </p>
+                <div class="close-button">
+                  <a id="close-overlay" href="#close-overlay">Not today</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="content" class="site-content">
+    <nav class="site-subheader navbar navbar-default" role="navigation">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <a href="https://blog.wishpond.com/">Blog</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right">
+          <ul id="menu-secondary" class="nav navbar-nav navbar-right">
+            <li class=""><a href="https://blog.wishpond.com/tag/growth-hacking/">Growth
+                Hacking</a></li>
+            <li class=""><a
+                href="https://blog.wishpond.com/tag/social-media-marketing/">Social Media</a></li>
+          </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+    </nav>
+
+    <div class="entry-content">
+      <div class="content-section">
+        <div id="body-container" class="container">
+          
+<div class="row">
+  <div class="col-sm-12">
+    <main class="content" role="main">
+      <article class="post tag-shopify tag-shopify-marketing tag-shopify-example tag-facebook-ads tag-facebook" data-post-id="115675438117" style="max-width: 810px;">
+        
+          <div class="row">
+            <div class="col-sm-12">
+
+              <header class="post-header">
+                  <img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/11/WISHPOND-OCTOBER-LAST-WEEK-NEWSLETTER-3.jpg" alt="10 Best Examples of Shopify Facebook Ads &amp; What You Can Learn From Them"/>
+
+                   
+                    <div class="author-meta">
+                      <figure class="author-image">
+                        <span style="background-image: url(https://www.wishpond.com/wp-content/uploads/sites/3/2020/06/vtm_tt_coverposes_flexing_1.26.18-3.jpg)"></span>
+                      </figure>
+                      <p>Written by Victoria Taylor   
+                       <br/> <a href=",her,#wp_popup_2408744">Get Victoria Taylor to personally send you <span>his</span> new posts.</a></p>
+                </div>   
+
+              </header>
+            </div>
+          </div>
+
+          <div class="row content-article">
+            <div class="col-sm-12">
+              <h1 class="post-title ">10 Best Examples of Shopify Facebook Ads &amp; What You Can Learn From Them</h1>
+            </div>
+            <div class="col-sm-12">
+              <section class="post-content">
+                <p>Now that you have your <a href="https://blog.wishpond.com/post/115675437765/shopify-store-examples">Shopify store</a> up and running, it's time for you to start making sales. If you're wondering why your Shopify sales aren't as frequent as you'd expect, it's more common than you think. </p>
+
+<p>On average, only <a href="https://www.invespcro.com/blog/the-average-website-conversion-rate-by-industry/">2.86%</a> of eCommerce website visits convert into a purchase. That means 2/10 people who come to your website are more likely to purchase from your Shopify store. </p>
+
+<p>To increase those odds, you'll need to drive more people to your Shopify store. The more traffic comes to your Shopify store, the higher your chances are of increasing sales. </p>
+
+<p>The best place to start is by adding Facebook ads to your <a href="https://blog.wishpond.com/post/115675437832/website-marketing-strategies">Shopify Marketing Strategy</a>. </p>
+
+<p><a href="https://blog.wishpond.com/post/115675437876/facebook-ads">Facebook ads</a> have the potential to place your products or services in front of your <a href="https://makewebbetter.com/blog/tips-to-identify-ideal-audience/">ideal target audience</a>.</p>
+
+<p>You'll simply have to avoid simple <a href="https://blog.wishpond.com/post/115675438058/facebook-ad-mistakes">Facebook ad mistake</a> and follow the best practices to work alongside your budget. </p>
+
+<p>Today we're going to show you the ten best examples of Shopify Facebook ads and how you can create your own ads to increase sales.</p>
+
+<hr />
+
+<h4 id="1focusoncreatedadswithahighlytargethighaudience">1. Focus on Created Ads with a Highly Target High Audience</h4>
+
+<p>The best Shopify Facebook ads are made with an ideal target in mind. After all, they're for your potential customers, not you. Most Shopify Facebook ads fail to bring results because they fail to get people to click, engage, or complete a purchase. </p>
+
+<p>For example, if you're interested in Yoga, you wouldn't click on an ad that's advertising mountain bikes, but you would click on an ad that sells Yoga clothes, classes, or mats. People don't interact with ads unless what's being advertised is related to their lifestyle or interest. </p>
+
+<p>Facebook allows you to target people based on the following:</p>
+
+<ul>
+<li><strong>Interests and Brands:</strong> pages, events, business users follow (e.g., target people who like "<a href="https://www.facebook.com/marketing">Facebook Business page</a>").</li>
+<li><strong>Life events and some profile status:</strong> e.g. people who are recently engaged or have children.</li>
+<li><strong>Age and gender</strong> so your product relates better.</li>
+<li><strong>People at a specific location:</strong> from an entire continent down to a 1-mile radius.</li>
+<li><strong>People who speak a certain language.</strong></li>
+<li><strong>Lookalike Audiences:</strong> Lookalike audiences are a very useful type of targeting where you can request Facebook to serve ads to people who are similar to an audience you provide.</li>
+</ul>
+
+<p>If you're not sure who exactly you should be targeting your Shopify Facebook ads for, then it's best to start by creating a <a href="https://www.victoriataylormarketing.com/post/how-to-create-a-fashion-mood-board">buyer persona</a>. </p>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/08/facebook-ads.png"></p>
+
+<h4 id="2usestunningproductimagesinyourads">2. Use Stunning Product Images in Your Ads</h4>
+
+<p>Your Shopify Facebook ads images are just as important as the graphics and CTA you use. It's the first thing people notice before anything else. <br />
+Shopify Facebook ad. Humans are visual creatures. We like what we see, and we buy it. If we don't, then we scroll along to the next thing that will grab their attention. </p>
+
+<h4 id="shopifyfacebookadexamplekirrinfinchhttpskirrinfinchcom">Shopify Facebook Ad Example: <a href="https://kirrinfinch.com/">Kirrin Finch</a></h4>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/10/Kirrin-Finch-Facebook-Ad.png"></p>
+
+<h4 id="toptipswhenusingproductimagesforyourfacebookads">Top Tips When Using Product Images for Your Facebook Ads</h4>
+
+<ul>
+<li><p><strong>Lighting is key:</strong> Dark, grainy or unflattering light makes your product look unflattering. On the other hand, too much light can be overexposing and can hide details from buyers. </p></li>
+<li><p><strong>Show products from various angles:</strong> Choose an angle that shows buyers the full details of your product and gives them an idea of how the product looks in real life. </p></li>
+<li><p><strong>Use people in your images:</strong> This allows your ad to relate easily or see themselves enjoying your product as well. </p></li>
+</ul>
+
+<p>For more helpful tips, check out these <a href="https://blog.wishpond.com/post/63575637531/6-facebook-ad-image-best-practices-that-will-send-your">6 Facebook Ad Image Best Practices that will Send your Click-Through-Rate to the Moon</a></p>
+
+<h4 id="3addfacebookpixelforyourwebsiteforretargeting">3. Add Facebook Pixel for Your Website for Retargeting</h4>
+
+<p>There's a small snippet of code that Facebook allows you to use to track conversion from your Facebook ad to your Shopify store. </p>
+
+<p>It's called <a href="https://blog.hootsuite.com/facebook-pixel/#:~:text=The%20Facebook%20pixel%20is%20code,of%20action%20on%20your%20website.">Facebook Pixel</a>, and it's excellent for retargeting website visitors who engaged once with your brand but never completed an action.</p>
+
+<p>It's well-known that a visitor is far more likely to <a href="https://blog.wishpond.com/post/90463492482/3-ways-to-use-retargeting-to-find-success-online">convert upon revisiting your store</a> than when they first visit it. In fact, according to <a href="https://digitalmarketingjobs.io/blog/retargeting-statistics/">retargeting stats</a>, it takes an average of six visits to get a lead to become a fully-fledged customer.</p>
+
+<h5 id="shopifyfacebookadexampleflouristhttpsflouristcom">Shopify Facebook Ad Example: <a href="https://flourist.com/">Flourist</a></h5>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/10/The-flourist-Facebook-ad.png"></p>
+
+<p>When you use your Shopify Facebook ads for retargeting, you can get back lost visitors and improve customer churn and recover lost sales. As a bonus, you should also add <a href="https://easyautotagging.com/facebook-pixel-vs-google-analytics-conversions/">Facebook Pixels along with Google Analytics</a>. This gives you powerful insights and allows you to get the most out of your Facebook ads and adjust as needed for more sales. </p>
+
+<div class="takeaway">  
+  <h2>Need help with your next Shopify Facebook ad?</h2>
+  <p><a href="https://www.wishpond.com/vip-demo/?utm_source=blog">Book a free call </a>to learn how our team of marketing experts can help you create high converting Facebook ads today.</p>
+</div>
+
+<h3 id="4usepersuasivecopycalltoactioninyourshopifyfacebookads">4. Use Persuasive Copy &amp; Call-To-Action in Your Shopify Facebook Ads</h3>
+
+<p>After you've chosen a great picture for your Facebook ad, it's now time for you to start working on your copy and call to action. </p>
+
+<p>The ad copy is used to explain why your viewer should be interested in completing your call to action. Your copy can be the graphics on your image or the words you use in your Facebook ad caption. </p>
+
+<p>A <a href="https://blog.wishpond.com/post/103290853633/the-25-best-words-to-use-in-your-call-to-action">call to action</a> can persuade your reader to click through to your website. It acts as a guide or sales pitch showing off your value proposition: how your brand can solve the reader's problems and why you're the best to do it. </p>
+
+<h4 id="shopifyfacebookadexamplepackagefreeshophttpspackagefreeshopcom">Shopify Facebook Ad Example: <a href="https://packagefreeshop.com/">Package Free Shop</a></h4>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/10/Package-Free-Shopify-Ad.png"></p>
+
+<h4 id="3tipswhenwritinggreatshopifyfacebookadcopy">3 Tips When Writing Great Shopify Facebook ad Copy</h4>
+
+<p><strong>1. Picture your reader:</strong> If you're struggling with writing compelling copy, print a photo of your target persona and tack it onto your desk at work. Write your copy with them in front of you and them in mind. You may be surprised at how much of a difference it makes to how targeted your message can be with this exercise.</p>
+
+<p><strong>2. Stay Focused with One Call-to-Action</strong> It might be tempting to jam-pack your ad copy with as many call to actions as possible, but that will only confuse your readers. Keep it simple, stay focused on <a href="https://blog.wishpond.com/post/74181758776/7-facebook-ad-call-to-action-cta-tips-techniques">a singular call to action in your caption</a>, or singular goal. </p>
+
+<p><strong>3. Read Your Competitors' Work:</strong> Read your competitors' work as often as you read your own, and don't read it to hate it or bring it down. This helps you see what brands are doing to keep relevant and fresh in the Facebook ad space.</p>
+
+<p>Don't forget to take a look at the <a href="blog.wishpond.com/post/115675437883/web-copywriting">Best Web Copywriting Tips (For Copywriters and Non-Copywriters)</a></p>
+
+<h4 id="5usespecificlandingpageforyourfacebookads">5. Use Specific Landing Page for Your Facebook Ads</h4>
+
+<p>It's best practice to use a specific link attached to your Shopify Facebook ad CTA. WIf you simply add your Shopify home page link, you leave your potential buyer to wonder where to shop or search for the product from the ad that influenced them to click "Shop Now" in the first place. </p>
+
+<p>Instead, send them to a specific <a href="https://blog.wishpond.com/post/115675437635/ecommerce-product-page">landing or product page</a> to keep them focused on a singular goal, buying a product from you.</p>
+
+<p>With Wishpond, you can choose from beautiful templates and lead generation tools to get the most out of your Facebook ad. Not to mention, you can publish your campaigns using four built-in options. Choose to publish your campaign on a custom domain, wishpond subdomain, embedded, or in a Facebook tab.</p>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2019/11/Gym-Wishpond-Landing-Page.png"></p>
+
+<p>Our mission is to give marketers and business owners the easiest experience creating the highest quality landing pages on the market.</p>
+
+<p>If you've ever dabbled in creating your own pages in the past, this is one editor you won't want to miss.</p>
+
+<p><a href="https://www.wishpond.com/canvas/?utm_source=blog&amp;utm_medium=blog"><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/04/Wishpond-Canvas-Strip.png"></a></p>
+
+<h4 id="6usevideocontentforyourshopifyfacebookads">6.Use Video Content for Your Shopify Facebook Ads</h4>
+
+<p>Video content can help to boost your chances of getting more clicks. After all, <a href="https://animoto.com/blog/business/2018-social-video-consumer-trends">46%</a> of consumers watch more video ads on social media platforms than on TV. </p>
+
+<p>Next to that <a href="https://buffer.com/state-of-social-2019">81%</a> of businesses choose Facebook for their video marketing, mainly because <a href="https://techcrunch.com/2015/11/04/facebook-video-views/">Facebook</a>gets over 8 billion video views per day. </p>
+
+<p>A report by Social Bakers found that <a href="https://www.socialbakers.com/social-media-content/studies/most-important-social-media-trends-to-remember-in-2019/">Facebook video promotions</a> are now as popular as photo promotions. </p>
+
+<p>So switch it up the next time you're creating your Shopify Facebook ad use video content instead of pictures. Your Facebook ad video doesn't have to be very long, in fact, videos less than 90 seconds long have a <a href="https://blog.hubspot.com/marketing/video-marketing-statistics#sm.0000h4rgwfoa1fouwqm23llpma557">50%</a> retention rate. </p>
+
+<h4 id="shopifyfacebookadexamplepartakefoodshttpspartakefoodscom">Shopify Facebook Ad Example: <a href="https://partakefoods.com/">Partake Foods</a></h4>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/10/partakefoods-Shopify-Facebook-Ad.png"></p>
+
+<p>The shorter, the better! </p>
+
+<p>Ad Age found that only <a href="https://adage.com/article/digitalnext/marketing-online-video-viewers-quit-30-seconds/146218/">33%</a> of viewers will stop watching a video after 30 seconds, 45% by one minute, and 60% by two minutes. So keep your Facebook ads to 30-40 seconds or less. </p>
+
+<p>Around 85% of <a href="https://business.instagram.com/a/stories-ads?locale=en_GB">Facebook</a> videos are watched without sound. Since Facebook gives it's users the option to turn off video sound, you need to consider making your video ads comprehensive with or without a sound present. </p>
+
+<h4 id="7utilizefacebooksmobileadsfeature">7. Utilize Facebook's Mobile Ads Feature</h4>
+
+<p>Everyone uses their phone, so much so that <a href="https://s21.q4cdn.com/399680738/files/doc_financials/2019/Q2/FB-Q2-2019-Earnings-Release.pdf">94%</a> of <a href="https://www.facebook.com/business/help/631079006996990?id=373423763458293">Facebook ad revenue</a> is from mobile. Another great eCommerce ad practice is making sure your Facebook eCommerce ad is mobile friendly. </p>
+
+<p>You hear marketers say "make your ads mobile-friendly," well, that's because a mere <a href="https://www.facebook.com/chrislondononline/posts/a-mere-6-of-facebooks-advertising-revenue-comes-from-desktop-only-users-people-c/1183235225353229/">6%</a> of Facebook's advertising revenue comes from desktop-only users. </p>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/08/facebook-mobile-ad.png"></p>
+
+<p>For more check out Word Stream's <a href="https://www.wordstream.com/blog/ws/2019/06/06/facebook-ads-for-mobile-apps">Beginner's Guide to Facebook Ads for Mobile Apps.</a></p>
+
+<h3 id="8occasionallyboostpostyourbestfacebookpost">8. Occasionally Boost Post Your Best Facebook Post</h3>
+
+<p>It doesn't hurt to boost a post every now and then. This helps to push traffic to your Shopify store. Promoting your post is just a short and less detailed version of creating a Facebook ad campaign in your ad manager. </p>
+
+<p>While creating an ad campaign provides more reach to a detailed target audience and far more options such as placement. It shouldn't be used as a substitute for Facebook ad campaigns but rather a helpful boost in your eCommerce brand and product awareness.</p>
+
+<h4 id="shopifyfacebookadexample">Shopify Facebook Ad Example:</h4>
+
+<p><img src=""></p>
+
+<p>Start boosting your Facebook post with Wishpond's guide on <a href="https://blog.wishpond.com/post/56441926016/how-to-use-facebook-promoted-posts">How to Use Facebook Promoted Posts</a></p>
+
+<h4 id="9testvariousfacebookadtype">9. Test Various Facebook Ad Type</h4>
+
+<p>Test out different types of Shopify Facebook ads to see which one provides the best results. That's right. Facebook allows you to pick from four main types of ads depending on your goal, ad spend, and ad placement (where your ad will be seen). </p>
+
+<p>Here are the main types of Facebook ads you can try, note that it does go deeper than this but for now, let's look at the basics: </p>
+
+<p><strong>Facebook Image Ads:</strong> Drive people to destination websites or apps through high-quality and engaging visuals. Use your own images or create an ad with stock photos to tell your story.</p>
+
+<h4 id="shopifyfacebookadexamplenegativeunderwearhttpsnegativeunderwearcompagesabout">Shopify Facebook Ad Example: <a href="https://negativeunderwear.com/pages/about/">Negative Underwear</a></h4>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/10/Negative-Underwear-Shopify.png"></p>
+
+<p><strong>Video Ads:</strong> Show off product features and draw people in with sound and motion. Upload a video you created or create one in Ads Manager using the Video Creation Kit.</p>
+
+<h4 id="shopifyfacebookadexamplerothyshttpsrothyscom">Shopify Facebook Ad Example: <a href="https://rothys.com/">Rothys</a></h4>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/10/Rothys-Shopify-Ad.png"></p>
+
+<p><strong>Carousel Ads:</strong> Display up to ten images or videos within a single ad, each with its own link. Use carousel ads to show different pictures of the same product, or create one extended photo that people can swipe.</p>
+
+<h4 id="shopifyfacebookadexampleblanksunglasseshttpsblanksunglassescom">Shopify Facebook Ad Example: <a href="https://blank-sunglasses.com">BLANK Sunglasses</a></h4>
+
+<p><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/08/Blank-Sunglasses-eCommerce-ads.png"></p>
+
+<p><strong>Collection Ads:</strong> Encourage shopping by displaying items from your product catalog—customized for each individual. Use our dynamic options to showcase your products in various ways.</p>
+
+<p>For more on mastering Facebook ads, check out this guide: </p>
+
+<ul>
+<li><a href="https://www.facebook.com/business/ads-guide">Facebook Ads Guide</a>
+*<a href="https://blog.wishpond.com/post/75702175163/how-to-use-facebook-ads-for-local-businesses-and">How to Use Facebook Ads for Local Businesses (And Why They Work)</a></li>
+<li><a href="https://blog.wishpond.com/post/115675437876/facebook-ads">10 Best Facebook Ads Changing The Game</a></li>
+</ul>
+
+<h4 id="10getanexperttohelpincreaseyourfacebookadresults">10. Get an Expert to Help Increase Your Facebook Ad Results</h4>
+
+<p>Take the Guesswork Out of Marketing With a Team of Professionals. Our team of dedicated experts (marketers executives, project managers, ad specialists, designers, and copywriters) will work with you to set up a custom marketing strategy made specifically for your business.</p>
+
+<p><a href="https://www.wishpond.com/pricing/?utm_source=blog&amp;utm_medium=blog"><img src="https://www.wishpond.com/wp-content/uploads/sites/3/2020/06/Wishpond-lead-generation-database-1.png"></a></p>
+
+<p>Your marketing executive will work with you to ensure your campaign is a success. Get unparalleled support 24/7 with access to designers, ads specialists, content writers, and more. <a href="https://www.wishpond.com/pricing/">Get Started</a></p>
+
+<h4 id="summary">Summary</h4>
+
+<p>Crafting Facebook ads for your Shopify store can seem like a big learning curve, but once you've overcome it, your ads will be one of the most powerful tools for your Shopify marketing strategy. </p>
+
+<p>It all starts with mastering the basics, so here's a rundown of the best Shopify Facebook ad practices you can start implementing right now: </p>
+
+<ol>
+<li>Focus on Created Ads with a Highly Target High Audience  </li>
+<li>Use Stunning Product Images in Your Ads  </li>
+<li>Add Facebook Pixel for Your Website for Retargeting  </li>
+<li>Use Persuasive Copy &amp; Call-To-Action in Your Shopify Facebook Ads  </li>
+<li>Use Specific Landing Page for Your Facebook Ads <br />
+6.Use Video Content for Your Shopify Facebook Ads  </li>
+<li>Utilize Facebook's Mobile Ads Feature  </li>
+<li>Occasionally Boost Post Your Best Facebook Post  </li>
+<li>Test Various Facebook Ad Type  </li>
+<li>Get an Expert to Help Increase Your Facebook Ad Results </li>
+</ol>
+
+<p><strong>Related Articles</strong></p>
+
+<ul>
+<li><a href="https://blog.wishpond.com/post/115675437876/facebook-ads">10 Best Facebook Ads Changing The Game</a></li>
+<li><a href="https://blog.wishpond.com/post/115675436351/facebook-ads-guide-targeting-basic">How to do Basic Facebook Ads Audience Targeting For Your Niche</a></li>
+<li><a href="https://blog.wishpond.com/post/111478987030/13-facebook-ads-we-got-that-were-right-on-the">13 Facebook Ads We Got That Were Right on the Money (and Why)</a></li>
+<li><a href="https://blog.wishpond.com/post/75702175163/how-to-use-facebook-ads-for-local-businesses-and">How to Use Facebook Ads for Local Businesses (And Why They Work)</a></li>
+</ul>
+              </section>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="author-meta author-bottom">
+                <figure class="author-image" style="position: relative; bottom: 17px;">
+                  <span style="background-image: url(https://www.wishpond.com/wp-content/uploads/sites/3/2020/06/vtm_tt_coverposes_flexing_1.26.18-3.jpg)"></span>
+                </figure>
+                <p>Written by Victoria Taylor</p>
+                <p class="bio">Victoria is a Marketing Generalist at Wishpond specializing in all things digital marketing and social media marketing. In love with blogging and Taco Tuesdays. Follow her on Twitter @vicknwsbest.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-12">
+              <div id="disqus_thread" class="comment-section"></div>
+              <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>
+          </div>
+      </article>
+    </main>
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <a class="wpcss-chat__launcher" href="#" id="wpjs-support-chat__launcher">
+    <div class="wpcss-chat__icon wpcss-chat__icon--close"></div>
+    <div class="wpcss-chat__icon wpcss-chat__icon--open"></div>
+    <span class="wpcss-chat__unread-count" id="wpjs-chat__unread-count"></span>
+  </a>
+
+  <footer id="colophon" class="site-footer text-white" role="contentinfo">
+    <div class="container-fluid signup-container text-center">
+      <div class="row">
+        <h2>Try Wishpond free for 14 days</h2>
+        <p>Start creating online marketing campaigns for your business with Wishpond’s 14-day free trial. No commitment.
+        </p>
+        <a href="https://www.wishpond.com/pricing/?blog_slider=true&utm_source=blog%20bottom"
+          class="cta-button cta-button-wide">Get Started</a>
+      </div>
+    </div>
+    <div class="site-info">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <p>&copy; 2020 Wishpond Technologies Ltd. - <a
+                href="https://www.wishpond.com/terms-conditions">Terms &amp; Conditions</a> - <a
+                href="https://www.wishpond.com/privacy-policy">Privacy Policy</a></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 col-md-3">
+            <h2>Products</h2>
+            <div class="menu-products-container">
+              <ul id="menu-products" class="menu">
+                <li><a href="https://www.wishpond.com/landing-pages/">Landing Pages</a></li>
+                <li><a href="https://www.wishpond.com/social-promotions/">Contests &amp; Promotions</a></li>
+                <li><a href="https://www.wishpond.com/website-popups/">Website Popups</a></li>
+                <li><a href="https://www.wishpond.com/lead-management/">Leads Tracking &amp; Management</a></li>
+                <li><a href="https://www.wishpond.com/forms/">Online Forms</a></li>
+                <li><a href="https://www.wishpond.com/marketing-automation/">Marketing Automation</a></li>
+                <li><a href="https://www.wishpond.com/email-marketing/">Email Marketing</a></li>
+                <li><a href="https://www.wishpond.com/referral-suite/">Referral Suite</a></li>
+                <li><a href="http://developers.wishpond.com/">API</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xs-6 col-sm-3">
+            <h2>Company</h2>
+            <div class="menu-company-container">
+              <ul id="menu-company" class="menu">
+                <li><a href="https://www.wishpond.com/about-us/">About Us</a></li>
+                <li><a href="https://www.wishpond.com/integrations/">Integrations</a></li>
+                <li><a href="https://www.wishpond.com/customer-success-stories/">Customer Success Stories</a></li>
+                <li><a href="https://www.wishpond.com/affiliates/">Affiliates</a></li>
+                <li><a href="https://www.wishpond.com/professional-services/">Professional Services</a></li>
+                <li><a href="https://www.wishpond.com/careers/">Careers</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xs-6 col-sm-3">
+            <h2>Contact</h2>
+            <div class="menu-contact-container">
+              <ul id="menu-contact" class="menu">
+                <li><a href="https://www.wishpond.com/vip-demo/">VIP Demo</a></li>
+                <li><a href="http://support.wishpond.com">Support</a></li>
+                <li><a href="https://www.wishpond.com/media/">Media</a></li>
+                <li><a href="https://www.wishpond.com/agencies/">Agencies</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xs-6 col-sm-3">
+            <h2>Resources</h2>
+            <div class="menu-resources-container">
+              <ul id="menu-resources" class="menu">
+                <li><a href="https://blog.wishpond.com/">Blog</a></li>
+                <li><a href="https://www.wishpond.com/ebooks/">Marketing Ebooks</a></li>
+                <li><a href="https://learn.wishpond.com/">Wishpond Academy</a></li>
+                <li><a href="https://www.wishpond.com/webinars/">Webinars</a></li>
+                <li><a href="https://www.wishpond.com/infographics/">Infographics</a></li>
+                <li><a href="https://learnleadgeneration.com/">Lead Generation Strategies</a></li>
+                <li><a href="https://emaildripcampaigns.com/">Email Drip Campaigns</a></li>
+                <li><a href="https://learnlandingpages.com/">Landing Pages Strategies</a></li>
+                <li><a href="https://www.wishpond.com/small-business-marketing/">Small Business Marketing</a></li>
+                <li><a href="https://apps.shopify.com/free-popup-builder">Free Shopify Popup Builder App</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"
+    integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="/assets/js/footer.min.js?v=b966451b25"></script>
+</body>
+
+</html>
